@@ -4,10 +4,12 @@
 This is Zujing Liu, an undergraduate student in Wuhan University, China.
 
 - 🌱 I’m currently learning Machine Learning, Deep Learning, and more mathematics。
-- 🔭 My recent interest mainly focused on implicit neural field and generative model in 3D vision.
+- 🔭 My recent interest mainly focused on __implicit neural field and generative model in 3D vision.__
 - 🖥️ A little Python, C/C++
 - 📫 How to reach me: <1075103513@qq.com>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=liuxiaozhu01)](https://git.io/streak-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=liuxiaozhu01&show_icons=true&theme=transparent)
 
 <!--
 **liuxiaozhu01/liuxiaozhu01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
