@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/liuxiaozhu01&left_color=red&right_color=green)
 
-This is Zujing Liu, an undergraduate student in Wuhan University, China.
+This is Liu Zujing, an undergraduate student in Wuhan University, China.
 
 - 🌱 I’m currently learning Machine Learning, Deep Learning, and more mathematics。
 - 🔭 My recent interest mainly focused on __implicit neural field and generative model in 3D vision.__
