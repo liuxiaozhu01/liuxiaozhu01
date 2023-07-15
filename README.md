@@ -1,5 +1,4 @@
 ### Hi there 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/liuxiaozhu01&left_color=red&right_color=green)
 
 This is Liu Zujing, an undergraduate student in Wuhan University, China.
 
