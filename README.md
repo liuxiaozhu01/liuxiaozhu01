@@ -7,8 +7,10 @@ This is Liu Zujing, an undergraduate student in Wuhan University, China.
 - 🖥️ A little Python, C/C++
 - 📫 How to reach me: <zjliu828@gmail.com> or <1075103513@qq.com>
 
+<!--
 [![GitHub Streak](https://streak-stats.demolab.com/?user=liuxiaozhu01)](https://git.io/streak-stats)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=liuxiaozhu01&show_icons=true&theme=transparent)
+-->
 
 <!--
 **liuxiaozhu01/liuxiaozhu01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
