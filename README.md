@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is Liu Zujing, an undergraduate student in Wuhan University, China.
+This is Liu Zujing(刘祖靖), a Master student since 2023 in Wuhan University, China.
 
 - 🌱 I’m currently learning Machine Learning, Deep Learning, and more mathematics。
 - 🔭 My recent interest mainly focused on __implicit neural field and generative model in 3D vision.__
