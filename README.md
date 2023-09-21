@@ -5,7 +5,7 @@ This is Liu Zujing(刘祖靖), a Master student since 2023 in Wuhan University, 
 - 🌱 I’m currently learning Machine Learning, Deep Learning, and more mathematics。
 - 🔭 My recent interest mainly focused on __implicit neural field and generative model in 3D vision.__
 - 🖥️ A little Python, C/C++
-- 📫 How to reach me: <zjliu828@gmail.com> or <1075103513@qq.com>
+- 📫 How to reach me: <zujing.liu@whu.edu.cn> or <zjliu828@gmail.com> or <1075103513@qq.com>(daily used)
 
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com/?user=liuxiaozhu01)](https://git.io/streak-stats)
