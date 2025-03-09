@@ -4,8 +4,8 @@ This is Liu Zujing(刘祖靖), a Master student at [Captain](http://www.captain-
 
 - 🔍 I’m currently working on model compression and inference acceleration on LLMs and MLLMs, including:
   - Structural Pruning, Knowledge Distillation and Quantization.
-  - KV Cache Optimization and Implicit Chain of Thought (CoT) Inference
-- 💻 I'm actively seeking internship and visiting opportunities 🥺🤗
+  - KV Cache Optimization and Implicit Chain of Thought (CoT) Inference.
+- 💻 __I'm actively seeking internship and visiting opportunities.__ 🥺🤗
 - 📫 Reach me: <zujing.liu@whu.edu.cn> or <zjliu828@gmail.com>.
 
 <!--
