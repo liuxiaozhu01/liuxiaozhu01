@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-This is Liu Zujing(刘祖靖), a Master student since 2023 in Wuhan University, China.
+This is Liu Zujing(刘祖靖), a Master student at [Captain](http://www.captain-whu.com/en/team/) in Wuhan University, China since 2023, advised by [Prof.Gui-song Xia](http://www.captain-whu.com/zh/person/xiaguisong.html) and [Prof.Yuan Gao](https://yuan-gao.net/).
 
-- 🔭 I’m currently working on model compression and acceleration
-- 🖥️ A little Python, C/C++
-- 📫 How to reach me: <zujing.liu@whu.edu.cn> or <zjliu828@gmail.com> or <1075103513@qq.com>(daily used)
+- 🔍 I’m currently working on model compression and inference acceleration on LLMs and MLLMs, including:
+  - Structural Pruning, Knowledge Distillation and Quantization.
+  - KV Cache Optimization and Implicit Chain of Thought (CoT) Inference
+- 💻 I'm actively seeking internship and visiting opportunities 🥺🤗
+- 📫 Reach me: <zujing.liu@whu.edu.cn> or <zjliu828@gmail.com> or <1075103513@qq.com>(daily used)
 
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com/?user=liuxiaozhu01)](https://git.io/streak-stats)
