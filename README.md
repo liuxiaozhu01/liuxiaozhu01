@@ -6,7 +6,7 @@ This is Liu Zujing(刘祖靖), a Master student at [Captain](http://www.captain-
   - Structural Pruning, Knowledge Distillation and Quantization.
   - KV Cache Optimization and Implicit Chain of Thought (CoT) Inference
 - 💻 I'm actively seeking internship and visiting opportunities 🥺🤗
-- 📫 Reach me: <zujing.liu@whu.edu.cn> or <zjliu828@gmail.com> or <1075103513@qq.com>(daily used)
+- 📫 Reach me: <zujing.liu@whu.edu.cn> or <zjliu828@gmail.com>.
 
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com/?user=liuxiaozhu01)](https://git.io/streak-stats)
