@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is Liu Zujing(刘祖靖), a Master student at [Captain](http://www.captain-whu.com/en/team/) in Wuhan University, China since 2023, advised by [Prof.Gui-song Xia](http://www.captain-whu.com/zh/person/xiaguisong.html) and [Prof.Yuan Gao](https://yuan-gao.net/).
+This is Zujing Liu(刘祖靖), a Master student at [Captain](http://www.captain-whu.com/en/team/) in Wuhan University, China since 2023, advised by [Prof.Gui-song Xia](http://www.captain-whu.com/zh/person/xiaguisong.html) and [Prof.Yuan Gao](https://yuan-gao.net/).
 
 - 🔍 I’m currently working on model compression and inference acceleration on LLMs and MLLMs, including:
   - Structural Pruning, Knowledge Distillation and Quantization.
